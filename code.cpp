@@ -1,5 +1,6 @@
 #include <iostream>
 #include <cmath>
+// Изменение тест
 
 // Функция для вычисления периметра треугольника
 double perimetr(double a, double b, double c) {
