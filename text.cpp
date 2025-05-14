@@ -4,11 +4,7 @@
 using namespace std;
 
 void per(int n,int m){
-<<<<<<< HEAD
-	if (n < 0 and m < 0){
-=======
 	if (n < 0 or m < 0){
->>>>>>> artyom
 		cout << "Error!";
 		return;
 	} 
